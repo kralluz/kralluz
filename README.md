@@ -4,3 +4,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralluz&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kralluz)](https://github.com/kralluz/Projeto_Notion_BackEnd)
+
