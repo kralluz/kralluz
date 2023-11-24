@@ -1,1 +1,1 @@
-------------------------------- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kralluz&show_icons=true&theme=dracula) ------------------------------
+![Anurag's GitHub stats](https://www.codewars.com/users/kralluz/badges/large)
