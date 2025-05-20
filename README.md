@@ -7,7 +7,8 @@ Atuo tanto no front quanto no back-end, com experiência em desenvolvimento Web,
 ---
 
 ## 🧱️ Sobre mim
-
+Concluí minha formação como Desenvolvedor Full Stack pela Kenzie Academy Brasil em 2023.
+Atualmente, curso o 5º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Goiano – Campus Ceres.
 - ☑️ Especialista em **TypeScript, React, Node.js, Prisma e PostgreSQL**
 - ☑️ Arquiteto de sistemas: penso do banco ao layout
 - ☑️ Experiência real com soluções de uso institucional (saúde e administração)
@@ -49,4 +50,8 @@ Se você chegou até aqui, provavelmente já sabe que:
 
 ---
 
-📬 Entre em contato comigo por [chenrique201520@gmail.com](mailto:chenrique201520@gmail.com)
+
+📍 Me acompanhe:
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-henrique-alves-2505a8249/)
+- [Instagram](https://www.instagram.com/klz.carlos/)
