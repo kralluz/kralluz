@@ -28,7 +28,7 @@ Plataforma de comunicação interna para ambiente hospitalar com feed, calendár
 Sistema educacional para colaboradores com emissão de certificados e acompanhamento de progresso. *(em desenvolvimento)*
 
 ### 📅 IMEC Formulários
-Plataforma responsiva para gestão de formulários clínicos (Ressonância/Tomografia) com validador, dashboard e controle de respostas.
+Plataforma responsiva para gestão de formulários clínicos (Ressonância/Tomografia) com validador, dashboard, controle de acesso e relatórios.
 
 ---
 
