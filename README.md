@@ -55,4 +55,3 @@ Se você chegou até aqui, provavelmente já sabe que:
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-henrique-alves-2505a8249/)
 - [Instagram](https://www.instagram.com/klz.carlos/)
-- ( 62 ) 9 9508 - 4748
