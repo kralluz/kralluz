@@ -53,5 +53,5 @@ Se você chegou até aqui, provavelmente já sabe que:
 
 📍 Me acompanhe ou entre em contato:
 
-- [LinkedIn](https://www.linkedin.com/in/carlos-henrique-alves-2505a8249/)
+- [LinkedIn](https://www.linkedin.com/in/carlosklz//)
 - [Instagram](https://www.instagram.com/klz.carlos/)
