@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://www.codewars.com/users/kralluz/badges/large)
 # Olá, eu sou o Carlos! 👋
 
-Sou um desenvolvedor **Full Stack** com forte foco em arquitetura de sistemas, construção de produtos escaláveis e soluções digitais completas.
+Sou um desenvolvedor Pleno **Full Stack** com forte foco em arquitetura de sistemas, construção de produtos escaláveis e soluções digitais completas.
 Atuo tanto no front quanto no back-end, com experiência em desenvolvimento Web, Mobile (com React Native + Expo) e APIs RESTful seguras e bem documentadas.
 
 ---
