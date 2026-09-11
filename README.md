@@ -1,37 +1,19 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/leaves-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/leaves-day.svg">
-  <img src="./assets/leaves-night.svg" width="100%" alt="folhas em pixel art caindo ao vento">
-</picture>
-
-<br>
-
-<sub>
-os bancos guardam memórias<br>
-de tudo que já passou.<br><br>
-o que fiz será esquecido,<br>
-assim como o que restou.<br><br>
-apenas sigo.
-</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=70&lines=do+banco+ao+layout;ru%C3%ADdo+em+n%C3%BAmero%2C+n%C3%BAmero+em+decis%C3%A3o;sistemas+que+rodam+em+dezenas+de+munic%C3%ADpios" alt="do banco ao layout / ruído em número, número em decisão / sistemas que rodam em dezenas de municípios">
 
 <br><br>
 
-<kbd>postgres</kbd> · <kbd>linux</kbd> · <kbd>silêncio</kbd>
+<kbd>typescript</kbd> · <kbd>react</kbd> · <kbd>node</kbd> · <kbd>prisma</kbd> · <kbd>postgres</kbd>
 
 </div>
 
 <!--
-Tudo permanece
-Mas ainda muda
-Bem levemente
-De dia e de noite
-O sútil acontece
-Quando tudo permanece
+Do banco ao layout
+Do ruído ao número
+Do número à decisão
+Quem mantém, constrói duas vezes
 -->
-
-
 
 ![Anurag's GitHub stats](https://www.codewars.com/users/kralluz/badges/large)
 # Olá, eu sou o Carlos! 👋
