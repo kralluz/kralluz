@@ -15,60 +15,104 @@ Do número à decisão
 Quem mantém, constrói duas vezes
 -->
 
-![Anurag's GitHub stats](https://www.codewars.com/users/kralluz/badges/large)
-# Olá, eu sou o Carlos! 👋
+# Olá, eu sou o Carlos 👋
 
-Sou um desenvolvedor Pleno **Full Stack** com forte foco em arquitetura de sistemas, construção de produtos escaláveis e soluções digitais completas.
-Atuo tanto no front quanto no back-end, com experiência em desenvolvimento Web, Mobile (com React Native + Expo) e APIs RESTful seguras e bem documentadas.
+Desenvolvedor **Full Stack** e arquiteto de sistemas. Construo produtos que rodam em produção
+e são usados todos os dias — painéis de saúde pública em dezenas de municípios, plataformas
+de atendimento ao cidadão, sistemas de gestão financeira.
 
----
-
-## 🧱️ Sobre mim
-Concluí minha formação como Desenvolvedor Full Stack pela Kenzie Academy Brasil em 2023.
-Atualmente, curso o 5º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Goiano – Campus Ceres.
-- ☑️ Especialista em **TypeScript, React, Node.js, Prisma e PostgreSQL**
-- ☑️ Arquiteto de sistemas: penso do banco ao layout
-- ☑️ Experiência real com soluções de uso institucional (saúde e administração)
-- ☑️ Estruturação de sistemas completos: backend, frontend, mobile, DevOps
-- ☑️ Trabalho em soluções que são utilizadas diariamente por centenas de pessoas
-
-Estou sempre evoluindo meus conhecimentos em arquitetura limpa, boas práticas de projeto, segurança, responsividade, performance e experiência do usuário.
+Atuo do banco de dados ao layout: modelagem, API, frontend, mobile e deploy.
 
 ---
 
-## 📈 Destaques
+## 🧱 Sobre mim
 
-### 🏥 Conecta IMEC
-Plataforma de comunicação interna para ambiente hospitalar com feed, calendário, área de benefícios e administração de eventos.
+Formado como Desenvolvedor Full Stack pela **Kenzie Academy Brasil** (2023).
+Cursando **Bacharelado em Sistemas de Informação** no Instituto Federal Goiano — Campus Ceres.
+Hoje na **WebPro Saúde**, em Ceres/GO.
 
-### 🎓 Capacita IMEC
-Sistema educacional para colaboradores com emissão de certificados e acompanhamento de progresso. *(em desenvolvimento)*
-
-### 📅 IMEC Formulários
-Plataforma responsiva para gestão de formulários clínicos (Ressonância/Tomografia) com validador, dashboard, controle de acesso e relatórios.
+- ☑️ **TypeScript de ponta a ponta** — 57 dos meus 100 repositórios mais recentes
+- ☑️ Arquitetura completa: banco → API → frontend → mobile → deploy
+- ☑️ Sistemas de **uso institucional**: saúde pública, prefeituras, gestão empresarial
+- ☑️ Software que atende **dezenas de municípios** e centenas de usuários por dia
+- ☑️ Integração com sistemas de governo: **PEC / e-SUS / SISAB**
 
 ---
 
-## 🚀 Tecnologias principais
+## 🚀 O que estou construindo
+
+### 🏥 Saúde Brasil 360 — Painel de Indicadores
+Painel de indicadores da Atenção Primária para dezenas de municípios. Lê as bases do
+**PEC/e-SUS**, calcula os indicadores do **SISAB** e entrega leitura por equipe, unidade e
+profissional — com listas nominais para a busca ativa.
+`React` `TypeScript` `Node` `PostgreSQL`
+
+### 💬 Atende Fácil
+Plataforma multi-município de atendimento ao cidadão, vendida a prefeituras. O cidadão abre
+uma solicitação, recebe protocolo e acompanha até a resolução; o município tria, encaminha ao
+setor, executa e encerra com evidência. Atendimento multicanal com fila, grupos e histórico.
+`React + Vite` `Express` `Prisma` `PostgreSQL` `Ant Design`
+
+### 📊 Alcance
+Gestão de contratos e comissões: representantes, divisão de comissionamento, faturamento e
+importação de arquivos de fornecedor. Em produção.
+`React + Vite` `Express` `Prisma` `Zod` `Vitest`
+
+### 📱 Distribuição Financeira
+Aplicativo mobile de organização financeira pessoal — distribuição de renda por categoria,
+dívidas, lançamentos recorrentes e metas. Publicação nas lojas em andamento.
+`React Native` `Expo` `NestJS` `Prisma` `PostgreSQL`
+
+### 🏃 Eventa Pro
+Plataforma de eventos esportivos: inscrição de atletas, pagamento, emissão de ingresso e
+gestão do organizador.
+`NestJS 11` `Prisma 7` `PostgreSQL 16` `React` `TailwindCSS`
+
+### 🏍️ CRM GetMoto
+Gestão de oficina: ordens de serviço, estoque, fluxo de caixa e controle de acesso por
+perfil (admin, gerente, mecânico, atendente).
+`React` `Express` `Prisma` `JWT`
+
+---
+
+## 🛠️ Stack
 
 ```txt
-React, React Native, TypeScript, Node.js, Express, Prisma, PostgreSQL,
-JWT, Docker, Zod, Git, Swagger, Styled Components, Expo, Vercel
+Linguagem    TypeScript · JavaScript
+Frontend     React · Vite · Next.js · Ant Design · TanStack Query · TailwindCSS
+Backend      Node.js · NestJS · Express · Prisma · Zod
+Mobile       React Native · Expo
+Banco        PostgreSQL
+Testes       Vitest · Jest
+Infra        Docker · Vercel · JWT · Swagger · Git
 ```
+
+---
+
+## 📈 Números
+
+```txt
+3.818 contribuições no último ano
+5.416 commits no total
+78 repositórios públicos
+```
+
+A maior parte do meu trabalho vive em repositórios privados de clientes — produtos em
+produção, não experimentos.
 
 ---
 
 ## ✨ Quer saber mais?
 
 Se você chegou até aqui, provavelmente já sabe que:
+
 - Eu construo com profundidade
 - Domino diversas camadas de desenvolvimento
 - Mas deixo **espaço para você perguntar o que ainda não revelei aqui** ;)
 
 ---
 
-
 📍 Me acompanhe ou entre em contato:
 
-- [LinkedIn](https://www.linkedin.com/in/carlosklz//)
+- [LinkedIn](https://www.linkedin.com/in/carlosklz/)
 - [Instagram](https://www.instagram.com/klz.carlos/)
