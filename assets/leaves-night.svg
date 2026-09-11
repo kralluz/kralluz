@@ -1,0 +1,114 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noite em pixel art com folhas caindo ao vento.">
+  <title>folhas na noite</title>
+  <desc>Noite em pixel art com folhas caindo ao vento.</desc>
+
+  <style>
+    .tiny { font: 14px monospace; fill: #9aa0a6; letter-spacing: 1px; }
+    .blink { animation: blink 1.7s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="900" height="360" rx="18" fill="#0d1117"/>
+  <rect x="18" y="18" width="864" height="324" rx="12" fill="#111820" stroke="#263241" stroke-width="2"/>
+
+  
+  <g opacity=".78">
+    <rect x="706" y="48" width="12" height="12" fill="#d6d0a8"/>
+    <rect x="718" y="48" width="12" height="12" fill="#d6d0a8"/>
+    <rect x="694" y="60" width="12" height="12" fill="#d6d0a8"/>
+    <rect x="706" y="60" width="12" height="12" fill="#e5deaf"/>
+    <rect x="718" y="60" width="12" height="12" fill="#e5deaf"/>
+    <rect x="730" y="60" width="12" height="12" fill="#c7c091"/>
+    <rect x="706" y="72" width="12" height="12" fill="#d6d0a8"/>
+    <rect x="718" y="72" width="12" height="12" fill="#c7c091"/>
+  </g>
+  <g opacity=".55">
+    <rect x="88" y="74" width="4" height="4" fill="#65758a"/>
+    <rect x="164" y="110" width="4" height="4" fill="#65758a"/>
+    <rect x="432" y="68" width="4" height="4" fill="#65758a"/>
+    <rect x="580" y="124" width="4" height="4" fill="#65758a"/>
+    <rect x="804" y="98" width="4" height="4" fill="#65758a"/>
+    <rect x="820" y="220" width="4" height="4" fill="#65758a"/>
+  </g>
+
+  <g transform="translate(105 132)">
+    <rect width="420" height="126" rx="10" fill="#0b0f14" stroke="#263241" stroke-width="2"/>
+    <rect y="0" width="420" height="28" rx="10" fill="#17212b"/>
+    <circle cx="20" cy="14" r="4" fill="#b9825f"/>
+    <circle cx="38" cy="14" r="4" fill="#b79c5a"/>
+    <circle cx="56" cy="14" r="4" fill="#789567"/>
+    <text x="24" y="62" class="tiny">root@memory:~# psql</text>
+    <text x="24" y="90" class="tiny">...Quando tudo permanece<tspan class="blink">_</tspan></text>
+  </g>
+
+  <g opacity=".75">
+    <rect x="18" y="322" width="864" height="20" fill="#0a0e13"/>
+    <rect x="64" y="314" width="58" height="8" fill="#263241"/>
+    <rect x="138" y="306" width="30" height="8" fill="#263241"/>
+    <rect x="612" y="314" width="92" height="8" fill="#263241"/>
+    <rect x="742" y="306" width="42" height="8" fill="#263241"/>
+  </g>
+
+  <defs>
+    <g id="leaf-a">
+      <rect x="4" y="0" width="4" height="4" fill="#c9823a"/>
+      <rect x="0" y="4" width="4" height="4" fill="#8f552b"/>
+      <rect x="4" y="4" width="4" height="4" fill="#d99b4a"/>
+      <rect x="8" y="4" width="4" height="4" fill="#9f642f"/>
+      <rect x="4" y="8" width="4" height="4" fill="#70452b"/>
+    </g>
+    <g id="leaf-b">
+      <rect x="4" y="0" width="4" height="4" fill="#7d8b3e"/>
+      <rect x="0" y="4" width="4" height="4" fill="#556b2f"/>
+      <rect x="4" y="4" width="4" height="4" fill="#9aa34d"/>
+      <rect x="8" y="4" width="4" height="4" fill="#6d7839"/>
+      <rect x="4" y="8" width="4" height="4" fill="#46542a"/>
+    </g>
+    <g id="leaf-c">
+      <rect x="4" y="0" width="4" height="4" fill="#a35437"/>
+      <rect x="0" y="4" width="4" height="4" fill="#6e342b"/>
+      <rect x="4" y="4" width="4" height="4" fill="#bd6842"/>
+      <rect x="8" y="4" width="4" height="4" fill="#823d2f"/>
+      <rect x="4" y="8" width="4" height="4" fill="#4c2c25"/>
+    </g>
+  </defs>
+
+  <g opacity=".88">
+    <use href="#leaf-a">
+      <animateMotion dur="15s" repeatCount="indefinite" begin="-1s" path="M120,-30 C70,58 178,115 116,198 C82,244 128,294 100,380"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#leaf-b">
+      <animateMotion dur="18s" repeatCount="indefinite" begin="-6s" path="M245,-40 C296,52 190,104 252,170 C314,235 220,278 258,382"/>
+      <animateTransform attributeName="transform" type="rotate" from="40" to="-320" dur="5s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#leaf-c">
+      <animateMotion dur="17s" repeatCount="indefinite" begin="-9s" path="M385,-35 C330,42 440,104 372,184 C324,240 416,296 360,380"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#leaf-a">
+      <animateMotion dur="20s" repeatCount="indefinite" begin="-12s" path="M520,-30 C590,40 480,102 548,166 C620,236 508,284 560,382"/>
+      <animateTransform attributeName="transform" type="rotate" from="-20" to="340" dur="5.2s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#leaf-b">
+      <animateMotion dur="16s" repeatCount="indefinite" begin="-4s" path="M680,-30 C620,54 730,114 664,190 C606,254 690,298 646,380"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.8s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#leaf-c">
+      <animateMotion dur="21s" repeatCount="indefinite" begin="-14s" path="M810,-35 C870,55 760,122 828,202 C892,276 790,310 842,382"/>
+      <animateTransform attributeName="transform" type="rotate" from="30" to="390" dur="6.4s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".24" stroke="#91a0af" stroke-width="2">
+    <path d="M610 156 H742" stroke-dasharray="22 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M590 196 H850" stroke-dasharray="30 22">
+      <animate attributeName="stroke-dashoffset" from="0" to="-104" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M60 284 H260" stroke-dasharray="18 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
